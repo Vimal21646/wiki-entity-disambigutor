@@ -1,0 +1,16 @@
+Flask
+gunicorn
+beautifulsoup4
+imageio
+jsonpickle
+jsonschema
+numpy
+opencv-python
+Pillow
+scikit-learn
+scipy
+spacy
+pymediawiki
+nltk
+joblib
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.1.0/en_core_web_sm-2.1.0.tar.gz#egg=en_core_web_sm
